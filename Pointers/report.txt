@@ -1,0 +1,26 @@
+Letter Grade
+Ali                     A
+Allison                 C
+Bodnar                  A
+Chabot                  B
+Costa                   F
+Dabu                    B
+Eccles                  B
+Giblett                 D
+Hatch                   C
+He                      A
+Koreck                  B
+Lamont                  A
+Moore                   A
+Myrie                   B
+Parr                    A
+Pereira                 B
+Peters                  B
+Smith                   C
+Suglio                  A
+Sun                     C
+
+Summary 
+Record count           20
+Average              77.6
+Standard deviation   13.1
